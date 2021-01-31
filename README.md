@@ -1,2 +1,9 @@
-# Interacting-with-the-System-and-Managing-Memory
-Course 4 of Specialization in C
+# Specialization in C
+# Course 4 
+
+## Interacting-with-the-System-and-Managing-Memory
+
+
+-Sauronil Das
+
+

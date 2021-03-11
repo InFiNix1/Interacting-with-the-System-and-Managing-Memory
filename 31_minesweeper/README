@@ -75,6 +75,8 @@ from the "standard" game:
    both mines and non-mined spaces.  It will reveal these too you 
    as soon as it considers them trivial to figure out.  
  
- - You cannot manually mark a square that you suspect has a mine
+ - You cannot manually mark a square that you suspect has a minweeper  impMakefile  README.md  test
+sauronil@void:~/JUNK/Duke-C/Interacting-with-the-System-and-Managing-Memory$ cd 31_minesweeper/
+e
 
 Once your code is complete, submit minesweeper.c 

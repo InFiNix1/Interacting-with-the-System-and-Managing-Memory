@@ -1,0 +1,40 @@
+Hello!!
+
+My Name is Sauronil Das, who took up your course on C programming. 
+
+If any admin is readinf this file, can you please edit the vimrc file on home directory as follows:
+
+filetype plugin on
+filetype indent on
+syntax enable
+
+" TAB character as source code instead of 4 spaces(it is generally default setting, but for extra defensive mechanism for Makefiles and other indentation errors
+" set softtabstop=0 noexpandtab
+
+
+set expandtab "Converts a TAB character to Spaces
+
+set smarttab "A backspace will delete shiftwidth worth of space
+
+set shiftwidth = 4 "One TAB is 4 spaces Long
+
+set tabstop = 4 "The width of a hard tabstop measured in spaces -- effectively the (maximum) 
+        width of an actual tab character.
+
+set softtabstop = 0 "Setting this to a non-zero value other than tabstop will 
+        make the tab key (in insert mode) insert a combination of spaces (and possibly tabs) to simulate tab stops at this width.
+
+set ai "Auto Indent
+
+set si "Smart Indent
+
+set number
+
+
+“Comment Highlight And Italic
+Highlight comment cterm=italic gui=italic
+
+“Add auto pairs
+
+
+

@@ -1,4 +1,4 @@
 Make sure to add -pg in Makefile to create the .gmon file.
 
-Make sure to remove -pg when you need to optimize your code for testing
+Make sure to remove -pg when you need to run the final optimized code for testing
 in Makefile

@@ -1,8 +1,0 @@
-Grading at Mon Jan  4 14:31:17 UTC 2021
-Attempting to compile test.c
-gcc -o test test.c
-compiled
-Your file matched the expected output
-Your output matched what we expected
-
-Overall Grade: A
